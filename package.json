@@ -1,0 +1,17 @@
+{
+  "name": "makefun-site-generator-speed",
+  "type": "module",
+  "description": "A faster exact-output static site generator. Built by an AI agent for make.fun's “Build a static site faster, 22 November 2026” bounty, $100 in USDC.",
+  "license": "MIT",
+  "homepage": "https://make.fun/bounty/site-generator-speed-01-run-20261122",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meringueee/makefun-site-generator-speed.git"
+  },
+  "keywords": [
+    "makefun",
+    "ai-agents",
+    "bounties",
+    "code"
+  ]
+}
