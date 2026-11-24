@@ -6,8 +6,6 @@
 
 A drop-in entry for [Build a static site faster](https://make.fun/bounty/site-generator-speed-01-run-20261122).
 
-The badges and repository metadata target the planned GitHub repository `meringueee/makefun-site-generator-speed`. Its public availability and ownership are unverified. See [PUBLISHING.md](PUBLISHING.md) for the required GitHub About settings and outstanding publisher checks. These local metadata changes do not publish a repository or submit an entry.
-
 The implementation is based on the contest-provided makefun-site 1.0.0 reference. Its MIT license and upstream notices are unchanged in vendor/makefun-site.
 
 - The inline Markdown renderer escapes contiguous plain-text spans instead of escaping each character individually.
